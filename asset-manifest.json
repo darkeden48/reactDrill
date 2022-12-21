@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-drill/static/css/main.31d6cfe0.css",
+    "main.js": "/react-drill/static/js/main.b0168f9c.js",
+    "index.html": "/react-drill/index.html",
+    "main.b0168f9c.js.map": "/react-drill/static/js/main.b0168f9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b0168f9c.js"
+  ]
+}
